@@ -1,4 +1,4 @@
-# Contract Review Agent – Expatriados Argentina  
+# Contract Review Agent para Asignaciones Internacionales  
 **Revisión automática de Assignment Letters y contratos Global Mobility usando IA**
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red?logo=streamlit)](https://streamlit.io)
@@ -40,10 +40,15 @@ Diseñado especialmente para:
 ## 📂 Estructura del proyecto
 
 contract-review-agent/
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ---
@@ -91,6 +96,23 @@ Sin word wrapping
 Alineación superior
 
 Datos ordenados por campo/pregunta
+
+---
+
+## Demo rápido
+
+1. `pip install streamlit langchain langchain-openai pypdf2 openai pandas openpyxl`
+2. `streamlit run app.py`
+3. Pegá tu API Key de OpenAI
+4. Subí el PDF de prueba (está en la carpeta)
+
+---
+
+## Próximos pasos
+
+- Adaptar prompts a normativas específicas (AFIP, decreto 260, etc.)  
+- Conectar a base de datos de expatriados  
+- Deploy en Streamlit Cloud o Azure
 
 ---
 
